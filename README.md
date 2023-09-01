@@ -1,4 +1,4 @@
-# I’m 🎉@aeron1008🎉 from Singapore. 
+# I’m 🎉@aeron1008🎉 from Finland. 
 - 👍 I am a full stack developer with a passion for creating clean, efficient, and user-friendly web pplications. My expertise lies in building scalable and robust applications using a variety of programming languages and frameworks, including React, Vue.js, Next, Laravel, and Django.
 - ✨ Over the years, I have worked on various projects, ranging from simple one-page websites to complex web applications. I always approach each project with attention to detail and a focus on uality, whether I am working on the front-end or the back-end.
 - 👌 My front-end development experience includes creating responsive and accessible web layouts and UI components, implementing state management solutions using Redux and Vue.js, and optimizing performance using techniques such as code splitting and lazy loading.
