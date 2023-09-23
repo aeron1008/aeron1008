@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aeron</h1>
+<h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A passionate frontend developer from Finland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aeron1008&label=Profile%20views&color=0e75b6&style=flat" alt="aeron1008" /> </p>
